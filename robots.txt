@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://daryana555.github.io/VkusnoDoma/sitemap.xml
